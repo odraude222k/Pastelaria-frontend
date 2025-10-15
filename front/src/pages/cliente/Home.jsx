@@ -85,10 +85,10 @@ export default function Home() {
       <section className="bg-gradient-to-r from-amber-600 to-orange-500 text-white py-16 px-4">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Bem-vindo à Pastelaria da Família
+            Bem-vindo à Pastelaria da Luzia
           </h2>
           <p className="text-xl md:text-2xl text-amber-100 max-w-3xl mx-auto">
-            Tradição e sabor em cada mordida. Pastéis artesanais feitos com carinho desde 1985.
+            Tradição e sabor em cada mordida.
           </p>
         </div>
       </section>
@@ -110,7 +110,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gradient-to-r from-amber-600 to-orange-500 text-white py-8 mt-16">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-lg mb-2">Pastelaria da Família</p>
+          <p className="text-lg mb-2">Pastelaria da Luzia</p>
           <p className="text-amber-100 text-sm">Feito com carinho e os melhores ingredientes</p>
           <p className="text-amber-100 text-xs mt-4">© 2025 - Todos os direitos reservados</p>
         </div>

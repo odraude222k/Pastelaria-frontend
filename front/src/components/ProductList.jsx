@@ -12,7 +12,7 @@ export default function ProductList({ onAddToCart }) {
           Nosso Cardápio
         </h2>
         <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-          Pastéis artesanais feitos com muito carinho e ingredientes frescos
+          Salgados feitos com muito carinho e ingredientes frescos
         </p>
         <div className="mt-4 h-1 w-32 bg-gradient-to-r from-amber-500 to-orange-500 mx-auto rounded-full"></div>
       </div>

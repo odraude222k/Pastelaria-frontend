@@ -9,7 +9,7 @@ export default function Header({ cartItemsCount, onCartClick }) {
           <div className="flex items-center gap-3">
             <span className="text-4xl">🍴</span>
             <h1 className="text-2xl md:text-3xl font-bold text-white">
-              Pastelaria da Família
+              Pastelaria da Luzia
             </h1>
           </div>
 

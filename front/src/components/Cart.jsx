@@ -54,7 +54,7 @@ export default function Cart({
               <div className="flex flex-col items-center justify-center h-full text-gray-400">
                 <ShoppingBag className="w-16 h-16 mb-4 opacity-50" />
                 <p className="text-lg">Seu carrinho está vazio</p>
-                <p className="text-sm">Adicione alguns pastéis deliciosos!</p>
+                <p className="text-sm">Adicione alguns salgados deliciosos!</p>
               </div>
             ) : (
               <div className="space-y-4">
